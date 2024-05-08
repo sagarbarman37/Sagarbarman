@@ -7,8 +7,8 @@
 :root{
   --background-color:radial-gradient(ellipse at top, #68BBE3, #0E86D4, #055C9D, #003060);
   --primary-color: radial-gradient(circle at bottom, #0067B3,#40B0DF,#75E6DA,#189AB4);
-  --button-color: #340744;
-  --text-button-color: #FF0BAC;
+  --button-color: #189AB4;
+  --text-button-color: #75E6DA;
   --name-color: #741AAC;
 }
 
